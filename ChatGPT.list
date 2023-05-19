@@ -2,7 +2,6 @@
 host-suffix,auth0.com,ChatGPT
 host,challenges.cloudflare.com,ChatGPT
 
-
 host-suffix,ai.com,ChatGPT
 host-suffix,openai.com,ChatGPT
 host-suffix,sentry.io,ChatGPT
