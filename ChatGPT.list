@@ -1,4 +1,4 @@
-# > OpenAI
+# > ChatGPT
 # >> OpenAI Challenge & SSO
 host-suffix,auth0.com,OpenAI
 host,challenges.cloudflare.com,OpenAI
