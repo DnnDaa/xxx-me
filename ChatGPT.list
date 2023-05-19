@@ -1,20 +1,19 @@
-# > ChatGPT
-# >> OpenAI Challenge & SSO
-host-suffix,auth0.com,ChatGPT
-host,challenges.cloudflare.com,ChatGPT
 
-# >> OpenAI Related
+host-suffix,auth0.com,ChatGPT
+host,challenges.cloudflare.com,bhatGPT
+
+
 host-suffix,ai.com,ChatGPT
 host-suffix,openai.com,ChatGPT
 host-suffix,sentry.io,ChatGPT
 host-suffix,intercom.io,ChatGPT
 host-suffix,identrust.com,ChatGPT
 
-# >> OpenAI CDN
+
 host-suffix,chat.openai.com.cdn.cloudflare.net,ChatGPT
 host-suffix,openaiapi-site.azureedge.net,ChatGPT
 
-# >> OpenAI Other
+
 host-suffix,challenges.cloudflare.com,ChatGPT
 host-suffix,invoice.stripe.com,ChatGPT
 host-suffix,stripe.com,ChatGPT
