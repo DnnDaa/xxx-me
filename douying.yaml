@@ -1,0 +1,17 @@
+  payload:
+  # 内容：抖音
+  # 数量：13条
+  - DOMAIN-SUFFIX,amemv.com,抖音 
+  - DOMAIN-SUFFIX,ixiguavideo.com,抖音
+  - DOMAIN-SUFFIX,pstatp.com,抖音
+  - DOMAIN-SUFFIX,snssdk.com,抖音
+  - DOMAIN-SUFFIX,toutiao.com,抖音
+  - DOMAIN-KEYWORD,ecombdapi,抖音
+  - DOMAIN-KEYWORD,zjurl,抖音
+  - DOMAIN-KEYWORD,douyinstatic,抖音
+  - DOMAIN-KEYWORD,zijieapi,抖音
+  - DOMAIN-KEYWORD,douyin,抖音
+  - DOMAIN-KEYWORD,douyinvod,抖音
+  - DOMAIN-KEYWORD,zjcdn,抖音
+  - DOMAIN-KEYWORD,douyinpic,抖音
+  - DOMAIN-KEYWORD,toutiao,抖音
