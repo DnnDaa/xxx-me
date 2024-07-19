@@ -82,7 +82,7 @@ def main():
     # 执行下载操作
     download_video(url, choice, video_path)
 
-    time.sleep(3)
+
     os.startfile(video_path)
     os._exit(0)
 
