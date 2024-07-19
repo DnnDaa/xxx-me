@@ -5,7 +5,7 @@ import threading
 import pyperclip
 
 def print_menu():
-    print("                                yt-dlp 助手v3  快乐男孩love你  20221021")
+    print("                                yt-dlp 助手v3  快乐男孩love你  20240711")
     print("                         查询支持下载的视频格式 记录一下视频流ID和音频流ID  并下载")
     print("\n提示：Youtube下载请输入视频分享的地址或视频id")
 
