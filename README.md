@@ -12,7 +12,7 @@
 
 文件|详情
 :---|:---
-yt-dlp|视频及音频下载依赖，可以单独使用也可以基于三方脚本使用，主要包含yt-dlp主程序和ffmpeg，需配置环境变量，
+yt-dlp|视频及音频下载依赖，可以单独使用也可以基于三方脚本使用，主要包含yt-dlp主程序和ffmpeg，需配置环境变量，自行去https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe  获取
 aria2|一个多线程下载程序，本程序可以单独使用也可以调用aria2，详情看yt-dlp官方文档，如需调用需配置环境变量
 网页自动复制URL-1.0.user.js|是一个油猴脚本，主要实现在网页通过一个功能按钮，点击后可以直接复制网页的url并调用本地的服务程序进行下载，需结合实际更改本地程序入口youtube.bat路径
 server.py|一个本地服务器运行在http://localhost:5000/run-program，当接收到POST请求时会执行相应的Windows程序
